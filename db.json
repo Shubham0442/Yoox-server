@@ -1,0 +1,206 @@
+{
+    "clothData":[
+        {
+        "id": 1,
+        "image1": "https://www.yoox.com/images/items/12/12795693MF_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12795693MF_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12795693MF_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12795693MF_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "AMBUSH",
+        "category": "t-shirt",
+        "price": 810
+        },
+        {
+        "id": 2,
+        "image1": "https://www.yoox.com/images/items/12/12640926MH_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12640926MH_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12640926MH_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12640926MH_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "OAMC",
+        "category": "t-shirt",
+        "price": 730
+        },
+        {
+        "id": 3,
+        "image1": "https://www.yoox.com/images/items/12/12644266LT_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12644266LT_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12644266LT_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12644266LT_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "McQ Alexander McQueen",
+        "category": "t-shirt",
+        "price": 1330
+        },
+        {
+        "id": 4,
+        "image1": "https://www.yoox.com/images/items/12/12616921AF_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12616921AF_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12616921AF_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12616921AF_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "NEIL BARRETT",
+        "category": "t-shirt",
+        "price": 660
+        },
+        {
+        "id": 5,
+        "image1": "https://www.yoox.com/images/items/49/49717449VP_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/49/49717449VP_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/49/49717449VP_14_e.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/49/49717449VP_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "BURBERRY",
+        "category": "Blazers",
+        "price": 5400
+        },
+        {
+        "id": 6,
+        "image1": "https://www.yoox.com/images/items/49/49696540SI_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/49/49696540SI_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/49/49696540SI_14_e.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/49/49696540SI_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "BOTTEGA VENETA",
+        "category": "Blazers",
+        "price": 6150
+        },
+        {
+        "id": 7,
+        "image1": "https://www.yoox.com/images/items/49/49714089WX_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/49/49714089WX_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/49/49714089WX_14_e.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/49/49714089WX_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "MAISON MARGIELA",
+        "category": "Blazers",
+        "price": 4110
+        },
+        {
+        "id": 8,
+        "image1": "https://www.yoox.com/images/items/49/49747946SW_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/49/49747946SW_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/49/49747946SW_14_e.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/49/49747946SW_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "BOGLIOLI",
+        "category": "Blazers",
+        "price": 2780
+        },
+        {
+        "id": 9,
+        "image1": "https://www.yoox.com/images/items/49/49721773VB_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/49/49721773VB_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/49/49721773VB_14_e.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/49/49721773VB_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "PAUL SMITH",
+        "category": "Blazers",
+        "price": 3650
+        },
+        {
+        "id": 10,
+        "image1": "https://www.yoox.com/images/items/12/12725404RD_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12725404RD_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12725404RD_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12725404RD_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "DOOA",
+        "category": "t-shirt",
+        "price": 650
+        },
+        {
+        "id": 11,
+        "image1": "https://www.yoox.com/images/items/12/12644224EV_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12644224EV_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12644224EV_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12644224EV_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "McQ Alexander McQueen",
+        "category": "sweatshirts",
+        "price": 940
+        },
+        {
+        "id": 12,
+        "image1": "https://www.yoox.com/images/items/12/12740556XK_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12740556XK_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12740556XK_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12740556XK_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "C.P. COMPANY",
+        "category": "sweatshirts",
+        "price": 910
+        },
+        {
+        "id": 13,
+        "image1": "https://www.yoox.com/images/items/12/12646902AG_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12646902AG_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12646902AG_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12646902AG_14_e.jpg?impolicy=crop&width=387&height=490",
+        "name": "PUMA",
+        "category": "sweatshirts",
+        "price": 550
+        },
+        {
+        "id": 14,
+        "image1": "https://www.yoox.com/images/items/12/12729599JX_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12729599JX_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12729599JX_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12729599JX_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "NIKE",
+        "category": "sweatshirts",
+        "price": 1010
+        },
+        {
+        "id": 15,
+        "image1": "https://www.yoox.com/images/items/12/12629162GH_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12629162GH_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12629162GH_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12629162GH_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "VIVIENNE WESTWOOD",
+        "category": "sweatshirts",
+        "price": 1640
+        },
+        {
+        "id": 16,
+        "image1": "https://www.yoox.com/images/items/12/12708402VC_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12708402VC_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12708402VC_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12708402VC_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "EMPORIO ARMANI",
+        "category": "shirts",
+        "price": 630
+        },
+        {
+        "id": 17,
+        "image1": "https://www.yoox.com/images/items/12/12740226NO_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12740226NO_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12740226NO_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12740226NO_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "C.P. COMPANY",
+        "category": "shirts",
+        "price": 680
+        },
+        {
+        "id": 18,
+        "image1": "https://www.yoox.com/images/items/12/12686144AI_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12686144AI_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12686144AI_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12686144AI_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "PAUL & SHARK",
+        "category": "shirts",
+        "price": 740
+        },
+        {
+        "id": 19,
+        "image1": "https://www.yoox.com/images/items/12/12681150PW_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/12/12681150PW_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/12/12681150PW_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/12/12681150PW_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "BALENCIAGA",
+        "category": "shirts",
+        "price": 780
+        },
+        {
+        "id": 20,
+        "image1": "https://www.yoox.com/images/items/38/38991825CS_14_f.jpg?impolicy=crop&width=387&height=490",
+        "image2": "https://www.yoox.com/images/items/38/38991825CS_14_r.jpg?impolicy=crop&width=387&height=490",
+        "image3": "https://www.yoox.com/images/items/38/38991825CS_14_d.jpg?impolicy=crop&width=387&height=490",
+        "image4": "https://www.yoox.com/images/items/38/38991825CS_14_a.jpg?impolicy=crop&width=387&height=490",
+        "name": "ASPESI",
+        "category": "shirts",
+        "price": 980
+        }
+    ],
+  "bag":[],
+  "user": []
+}
